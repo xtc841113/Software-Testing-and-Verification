@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.Base32Test" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-05-01T14:22:28" hostname="Weijhede-MacBook-Air.local" time="0.087">
+  <properties/>
+  <testcase name="encodeBase32_FF" classname="com.github.davidmoten.geo.Base32Test" time="0.035"/>
+  <testcase name="encodeBase32_FT" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="encodeBase32_TF" classname="com.github.davidmoten.geo.Base32Test" time="0.002"/>
+  <testcase name="encodeBase32_TT" classname="com.github.davidmoten.geo.Base32Test" time="0.0"/>
+  <testcase name="encodeBase32_F" classname="com.github.davidmoten.geo.Base32Test" time="0.002"/>
+  <testcase name="encodeBase32_T" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="decodeBase32_hash_j" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="decodeBase32_hash_w" classname="com.github.davidmoten.geo.Base32Test" time="0.001"/>
+  <testcase name="decodeBase32_isNotNegative" classname="com.github.davidmoten.geo.Base32Test" time="0.0"/>
+  <testcase name="getCharIndexIsNotBase32Character" classname="com.github.davidmoten.geo.Base32Test" time="0.005"/>
+  <testcase name="encodeBase32_biggerM32" classname="com.github.davidmoten.geo.Base32Test" time="0.002"/>
+  <testcase name="decodeBase32_isNegative" classname="com.github.davidmoten.geo.Base32Test" time="0.012"/>
+  <testcase name="getCharIndexIsBase32Character" classname="com.github.davidmoten.geo.Base32Test" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

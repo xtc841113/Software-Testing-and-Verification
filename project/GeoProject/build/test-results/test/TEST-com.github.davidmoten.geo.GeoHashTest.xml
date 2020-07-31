@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.GeoHashTest" tests="44" skipped="0" failures="0" errors="0" timestamp="2019-05-01T14:22:28" hostname="Weijhede-MacBook-Air.local" time="0.156">
+  <properties/>
+  <testcase name="bottom_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.065"/>
+  <testcase name="bottom_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="hashLengthToCoverBoundingBox_1" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="hashLengthToCoverBoundingBox_2" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="hashLengthToCoverBoundingBox_3" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="hashLengthToCoverBoundingBox_4" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="decodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHash_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHash_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.04"/>
+  <testcase name="left_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="left_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="hashLengthToCoverBoundingBox" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="coverBoundingBox_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="coverBoundingBox_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="coverBoundingBoxMaxHashes_1" classname="com.github.davidmoten.geo.GeoHashTest" time="0.003"/>
+  <testcase name="coverBoundingBoxMaxHashes_2" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="coverBoundingBoxMaxHashes_3" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="coverBoundingBoxMaxHashes_4" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="coverBoundingBoxMaxHashes_5" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="coverBoundingBoxMaxHashes_6" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="coverBoundingBox" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="adjacentHash_NULL" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="widthDegrees_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="widthDegrees_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="top_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="top_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="neighbours" classname="com.github.davidmoten.geo.GeoHashTest" time="0.013"/>
+  <testcase name="encodeHashLengthGreaterThan12" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="heightDegreesGreaterThan12" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="decodeHash_" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="right_F" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="right_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="adjacentHashStepsIsNegative" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHashm_T" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHashLengthEqual1" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="heightDegreesLessThan12" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHash_" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="gridAsString_1" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="gridAsString_2" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="gridAsString_3" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="gridAsString_4" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="gridAsString_5" classname="com.github.davidmoten.geo.GeoHashTest" time="0.003"/>
+  <testcase name="gridAsString_6" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

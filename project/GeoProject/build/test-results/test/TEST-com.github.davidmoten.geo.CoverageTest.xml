@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.CoverageTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-01T14:22:28" hostname="Weijhede-MacBook-Air.local" time="0.002">
+  <properties/>
+  <testcase name="toStringInCoverage" classname="com.github.davidmoten.geo.CoverageTest" time="0.001"/>
+  <testcase name="getHash" classname="com.github.davidmoten.geo.CoverageTest" time="0.0"/>
+  <testcase name="getHashLength" classname="com.github.davidmoten.geo.CoverageTest" time="0.0"/>
+  <testcase name="getHashLengthIfHashEqualZero" classname="com.github.davidmoten.geo.CoverageTest" time="0.0"/>
+  <testcase name="getRatio" classname="com.github.davidmoten.geo.CoverageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

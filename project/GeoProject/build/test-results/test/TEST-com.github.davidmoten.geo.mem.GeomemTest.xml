@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.mem.GeomemTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-01T14:22:29" hostname="Weijhede-MacBook-Air.local" time="0.604">
+  <properties/>
+  <testcase name="find_1" classname="com.github.davidmoten.geo.mem.GeomemTest" time="0.596"/>
+  <testcase name="find_2" classname="com.github.davidmoten.geo.mem.GeomemTest" time="0.002"/>
+  <testcase name="apply_1" classname="com.github.davidmoten.geo.mem.GeomemTest" time="0.001"/>
+  <testcase name="apply_2" classname="com.github.davidmoten.geo.mem.GeomemTest" time="0.002"/>
+  <system-out><![CDATA[true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
